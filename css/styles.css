@@ -3,16 +3,32 @@ body {
 }
 H1 {
     COLOR: WHITE;
+    text-align: center;
 }
 H2 {
     COLOR: WHITE;
+    text-align: center;
 }
 P{
     COLOR: LIGHTGREEN;
 }
 H3 {
     COLOR: WHITE;
+    text-align: center;
 }
 li {
     color: lightblue;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 5px solid lightcoral;
+}
+.centertxt{
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
 }
